@@ -38,6 +38,6 @@
 
 # Source
 
-**More details:**[Dashboard](https://public.tableau.com/views/Dashboard_Mavel/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+**More details:** [Dashboard](https://public.tableau.com/views/Dashboard_Mavel/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) & [Story](https://public.tableau.com/shared/Y3MRT4DPR?:display_count=n&:origin=viz_share_link)
 
-**More details:**[Story](https://public.tableau.com/shared/Y3MRT4DPR?:display_count=n&:origin=viz_share_link)
+**More details:** [Story](https://public.tableau.com/shared/Y3MRT4DPR?:display_count=n&:origin=viz_share_link)
