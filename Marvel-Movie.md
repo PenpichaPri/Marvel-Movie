@@ -38,10 +38,6 @@
 
 # Source
 
-[ข้อมูลที่นำมาทำ Dashboard](https://www.kaggle.com/datasets/minisam/marvel-movie-dataset?resource=download&select=marvel_clean.csv) 
+**More details:**[Dashboard](https://public.tableau.com/views/Dashboard_Mavel/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-[**Click to access the Dashboard**](https://public.tableau.com/views/Dashboard_Mavel/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-[ข้อมูลที่นำมาทำ Story](https://www.kaggle.com/datasets/minisam/marvel-moviedataset?resource=download&select=marvel_clean.csv) 
-
-[Click to view the details of the Story](https://public.tableau.com/shared/Y3MRT4DPR?:display_count=n&:origin=viz_share_link)
+**More details:**[Story](https://public.tableau.com/shared/Y3MRT4DPR?:display_count=n&:origin=viz_share_link)
